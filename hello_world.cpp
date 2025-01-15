@@ -2,7 +2,7 @@
 
 using std::cout;
 using std::endl;
-
+//ubuntu类添加注释
 class A
 {
 public:
